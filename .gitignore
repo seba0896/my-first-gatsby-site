@@ -1,3 +1,7 @@
 node_modules/
 .cache/
 public
+
+
+pages/about.js
+pages/contact.js

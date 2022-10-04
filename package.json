@@ -1,6 +1,6 @@
 {
   "name": "my-first-gatsby-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "my-first-gatsby-site",
   "author": "Sebastian Gonzalez R.",
@@ -16,6 +16,9 @@
   },
   "dependencies": {
     "gatsby": "^4.24.0",
+    "gatsby-plugin-image": "^2.24.0",
+    "gatsby-plugin-sharp": "^4.24.0",
+    "gatsby-source-filesystem": "^4.24.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
